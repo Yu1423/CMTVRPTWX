@@ -1,4 +1,4 @@
-# DeLuxing
+# LibcmtvrptwX
 The libcmtvrptwX.a is linkable C++ library compiled for Linux to solve the capacitated multi-trip vehicle routing problem with time windows (CMTVRPTW), CMTVRPTW with loading times (CMTVRPTW-LT), and CMTVRPTW with release dates (CMTVRPTW-R). It applies the novel variable fixing method as well as several extensions developed in the paper titled [_DeLuxing: Deep Lagrangian Underestimate Fixing for
 Column-Generation-Based Exact Methods_](https://optimization-online.org/?p=24217). CVRPSEP (an open-source cut separation package) and Gurobi (a third-party commercial MIP solver) are required. Please cite our paper if you use the library for your research.
 
